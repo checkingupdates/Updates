@@ -1,6 +1,8 @@
 {
+    "status": "run",
     "update":1,
-    "server": "IP",
+    "server": "IP:PORT",
     "password": "pass",
-    "url": "address"
+    "url": "address",
+    "buffer": 51200
 }
